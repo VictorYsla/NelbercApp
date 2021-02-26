@@ -290,6 +290,7 @@ class Evidencias extends React.Component {
     }
   };
 
+  //modificacion
   createFormData = (objeto) => {
     const formData = new FormData();
 
